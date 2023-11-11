@@ -80,7 +80,7 @@ clear()
 
 
 def view():
-  with open("Passwords.txt", "r") as f:
+  with open("passwords.txt", "r") as f:
     for line in f.readlines():
       accounts = line.rstrip()
       user, passwd = accounts.split("|")
