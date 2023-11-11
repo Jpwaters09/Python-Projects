@@ -8,7 +8,7 @@
 
 ################### For this code to work you have to install the cryptography package see below on how to install it: ####################
 ###### 1. Open the terminal by typing "cmd" for windows or "terminal" for linux depending on your operating system in the search bar. #####
-####################################### 2. Type pip install cryptography followed by enter. ###############################################
+###################################### 2. Type "pip install cryptography" followed by enter. ##############################################
 ###########################################################################################################################################
 
 from os import system
