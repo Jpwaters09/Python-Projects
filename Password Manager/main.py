@@ -93,7 +93,7 @@ def add():
   a_name = input("Account Name: ")
   a_passwd = input("Password: ")
 
-  with open("Passwords.txt", "a") as f:
+  with open("passwords.txt", "a") as f:
     f.write(fer.encrypt(a_name.encode()).decode() + "|" + fer.encrypt(a_passwd.encode()).decode() + "\n")
 
 
