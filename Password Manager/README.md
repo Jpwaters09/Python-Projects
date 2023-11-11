@@ -6,5 +6,4 @@
 5. Create a file named passwords.txt.
 6. Copy the [main.py](main.py) file from my GitHub and paste it in the main.py file you have just created.
 7. Copy the [key.key](key.key) file from my GitHub and paste it in the key.key file you have just created.
-8. Copy the [passwords.txt](passwords.txt) file from my GitHub and paste it in the passwords.txt file you have just created.
-9. Run the program.
+8. Run the program.
