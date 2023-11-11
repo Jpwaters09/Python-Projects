@@ -1,5 +1,5 @@
 ##############################################
-# Computer Quiz                              #
+# Rock Paper Scissors                        #
 # Author: Jacob Waters                       #
 # Github: github.com/jpwaters09              #
 # Contact me: jpwaters.github@gmail.com      #
