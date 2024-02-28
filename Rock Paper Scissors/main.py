@@ -1,10 +1,11 @@
-##############################################
-# Rock Paper Scissors                        #
-# Author: Jacob Waters                       #
-# Github: github.com/jpwaters09              #
-# Contact me: jpwaters.github@gmail.com      #
-# Follow my WhatsApp Channel: bit.ly/3sr99ZO #
-##############################################
+################################################
+## Rock Paper Scissors                        ##
+## Language: Python                           ##
+## Author: Jacob Waters                       ##
+## Github: github.com/jpwaters09              ##
+## Contact me: jpwaters.github@gmail.com      ##
+## Follow my WhatsApp Channel: bit.ly/3sr99ZO ##
+################################################
 
 from os import system
 from time import sleep
