@@ -1,10 +1,11 @@
-##############################################
-# Computer Quiz                              #
-# Author: Jacob Waters                       #
-# Github: github.com/jpwaters09              #
-# Contact me: jpwaters.github@gmail.com      #
-# Follow my WhatsApp Channel: bit.ly/3sr99ZO #
-##############################################
+################################################
+## Computer Quiz                              ##
+## Language: Python                           ##
+## Author: Jacob Waters                       ##
+## Github: github.com/jpwaters09              ##
+## Contact me: jpwaters.github@gmail.com      ##
+## Follow my WhatsApp Channel: bit.ly/3sr99ZO ##
+################################################
 
 from os import system
 from time import sleep
