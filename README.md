@@ -1,4 +1,4 @@
-# Python-Projects
+# Python Projects
 Tutorials / Projects For Python
 ---
 Hi i'm Jacob,
