@@ -7,23 +7,21 @@
 ## Follow my WhatsApp Channel: bit.ly/3sr99ZO ##
 ################################################
 
-################### For this code to work you have to install the cryptography package, see below on how to install it: ####################
-###### 1. Open the terminal by typing "cmd" for windows or "terminal" for linux depending on your operating system in the search bar. ######
-###################################### 2. Type "pip install cryptography" followed by enter. ###############################################
-############################################################################################################################################
-
 from os import system
 from time import sleep
 from cryptography.fernet import Fernet
+import platform
 
-########## Type windows / linux in the quotation marks depending on you operating system ##########
-WindowsOrLinux = "windows"                                                                        #
-###################################################################################################
+system('pip install cryptography')
 
-if WindowsOrLinux == "windows":
+if platfrom.system() == "Windows":
   def clear():
     system('cls')
-elif WindowsOrLinux == "linux":
+elif platfrom.system() == "Linux":
+  def clear():
+    system('clear')
+
+elif platfrom.system() == "Darwin":
   def clear():
     system('clear')
 
