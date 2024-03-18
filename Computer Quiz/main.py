@@ -9,15 +9,16 @@
 
 from os import system
 from time import sleep
+import platform
 
-########## Type windows / linux in the quotation marks depending on you operating system ##########
-WindowsOrLinux = "windows"                                                                        #
-###################################################################################################
-
-if WindowsOrLinux == "windows":
+if platfrom.system() == "Windows":
   def clear():
     system('cls')
-elif WindowsOrLinux == "linux":
+elif platfrom.system() == "Linux":
+  def clear():
+    system('clear')
+
+elif platfrom.system() == "Darwin":
   def clear():
     system('clear')
 
