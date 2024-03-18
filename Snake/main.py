@@ -6,15 +6,12 @@
 ## Follow my WhatsApp Channel: bit.ly/3sr99ZO ##
 ################################################
 
-###################### For this code to work you have to install the pillow package, see below on how to install it: #######################
-###### 1. Open the terminal by typing "cmd" for windows or "terminal" for linux depending on your operating system in the search bar. ######
-######################################### 2. Type "pip install pillow" followed by enter. ##################################################
-############################################################################################################################################
-
 import tkinter as tk
 from random import randint
 from PIL import Image, ImageTk
+from os import system
 
+system('pip install pillow')
 
 MOVE_INCREMENT = 20
 MOVES_PER_SECOND = 5
