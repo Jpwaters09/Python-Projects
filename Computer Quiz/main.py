@@ -134,7 +134,7 @@ sleep(2)
 
 if score == 4:
   clear()
-  print("Well Done You Have Got 100.0%!")
+  print("You Have Got 100%!")
   sleep(1)
   print("\nYou Won!")
   sleep(2)
