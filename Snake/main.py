@@ -1,9 +1,9 @@
 ################################################
 ## Snake                                      ##
+## Language: Python                           ##
 ## Author: Jacob Waters                       ##
 ## Github: github.com/jpwaters09              ##
 ## Contact me: jpwaters.github@gmail.com      ##
-## Follow my WhatsApp Channel: bit.ly/3sr99ZO ##
 ################################################
 
 import tkinter as tk
