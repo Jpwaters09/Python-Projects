@@ -72,7 +72,7 @@ while True:
   else:
     print("\nYou Lost!")
     computer_wins += 1
-    sleep(4)
+    sleep(2)
     clear()
 
 print("You Won", user_wins, "Time/s.")
