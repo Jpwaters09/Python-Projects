@@ -12,15 +12,15 @@ from time import sleep
 import random
 import platform
 
-if platfrom.system() == "Windows":
+if platform.system() == "Windows":
   def clear():
     system('cls')
     
-elif platfrom.system() == "Linux":
+elif platform.system() == "Linux":
   def clear():
     system('clear')
 
-elif platfrom.system() == "Darwin":
+elif platform.system() == "Darwin":
   def clear():
     system('clear')
 
